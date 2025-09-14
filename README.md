@@ -11,12 +11,12 @@ This project aims to analyze the various data analytics tools leveraged by HR pr
 ## **Tools Used**
 
 - **powerbi**  
-  [Learn more about powerbi].(Power BI Official WebsiteP)
+
 
 - **Microsoft Excel**  
-  [Learn more about Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel)
+  
 
 - **Statistics**  
-  [Intro to Statistics (Khan Academy)](https://www.khanacademy.org/math/statistics-probability)
+  
 
 ---
