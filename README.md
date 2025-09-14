@@ -10,8 +10,8 @@ This project aims to analyze the various data analytics tools leveraged by HR pr
 
 ## **Tools Used**
 
-- **Tableau**  
-  [Learn more about Tableau](https://www.tableau.com/)
+- **powerbi**  
+  [Learn more about powerbi].(Power BI Official WebsiteP)
 
 - **Microsoft Excel**  
   [Learn more about Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel)
